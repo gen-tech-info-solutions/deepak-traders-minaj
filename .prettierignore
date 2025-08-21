@@ -1,0 +1,7 @@
+routeTree.gen.ts
+.nitro
+.output
+.tanstack
+.netlify
+node_modules
+**/_generated
